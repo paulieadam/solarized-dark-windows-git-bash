@@ -2,7 +2,7 @@
 Solarized (dark) Git Bash, the one bundled with git-scm for windows. 
 
 # Installation
-Add the '.' files to your home directory (C:\Users\Username):</br>
+Add the '.' files to your home directory (C:\Users\Username or /h):</br>
 ~/.bashrc</br>
 ~/.minttyrc</br>
 ~/.dir_colors</br>
